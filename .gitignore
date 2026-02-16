@@ -2,6 +2,21 @@
 *.class
 
 
+# Maven
+/target/
+
+# IntelliJ IDEA
+/.idea/
+*.iml
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
+
+
 /node_modules
 
 # SSH Keys
